@@ -84,7 +84,7 @@ jobs:
     - name: Set up environment
       run: |
         sudo apt-get update
-        sudo apt-get install -y tmux ccache
+        sudo apt-get install -y tmux
 
       # Download and configure 'crave'.
     - name: Configure the 'crave' environment
