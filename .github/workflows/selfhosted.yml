@@ -145,7 +145,7 @@ jobs:
         "ArrowOS 13.1")
           export PROJECTFOLDER="/crave-devspaces/Arrow13"
           export PROJECTID="73"
-          export REPO_INIT="repo init -u https://github.com/ArrowOS/android_manifest.git -b arrow-13.1 --depth=1"
+          export REPO_INIT="repo init -u https://github.com/RvOS-CLO/manifest.git -b tiramisu --depth=1"
         ;;
         "DerpFest 14.0")
           export PROJECTFOLDER="/crave-devspaces/DerpFest14"
